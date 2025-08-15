@@ -24,7 +24,7 @@ Java | Spring Boot | REST APIs | MySQL | Maven | HTML| CSS
 - Streamlined mock election flows with role-based access & backend validations.
 - Built 3 relational tables for accurate vote casting & tracking.
 
-### 💳 School Fee Management System
+### 💳 School Fee Management System [Live](https://schoo-fee-management-frontend.netlify.app/)
 Java | Spring Boot | MySQL | REST APIs | JS | HTML | CSS 
 - Full-stack fee management system for student registration & fee tracking.
 - Developed APIs for payments, auto ID generation & PDF receipt generation.
