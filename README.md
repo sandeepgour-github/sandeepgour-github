@@ -18,7 +18,7 @@ Java / JEE | Oracle DB | JavaMail API | Bootstrap
 - Automated signup & payment emails using JavaMail API.
 - Admin dashboard for managing 50+ products, optimized database operations.
 
-### 🗳️ Votezy
+### 🗳️ Votezy  [Live](https://votezy-frontend.netlify.app/)
 Java | Spring Boot | REST APIs | MySQL | Maven | HTML| CSS
 - Online voting system with voter & candidate modules.
 - Streamlined mock election flows with role-based access & backend validations.
