@@ -34,10 +34,10 @@ Java | Spring Boot | MySQL | REST APIs | JS | HTML | CSS
 - B.Tech in Computer Science Engineering  
   Oriental Institute of Science and Technology, Bhopal (2022–2026)  
   Current CGPA: 7.78
-- XII: 87.4% | X: 94.4%
+- XII: 87.4% | X: 94%
 
 ## 🏆 Achievements & Certifications
-- Solved **200+ problems on LeetCode**
+- Solved **150+ problems on LeetCode**
 - Solved **150+ problems on GeeksforGeeks**
 - Earned **“50 Days Badge 2024”** on LeetCode
 - NPTEL: Programming in Java (Elite, 79%)
@@ -50,5 +50,3 @@ Java | Spring Boot | MySQL | REST APIs | JS | HTML | CSS
 - [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/sandeepgqqwg/)
 
 ---
-
-> *“Consistency is the key to mastering both code and confidence.”*
