@@ -18,6 +18,16 @@ Java / JEE | Oracle DB | JavaMail API | Bootstrap
 - Automated signup & payment emails using JavaMail API.
 - Admin dashboard for managing 50+ products, optimized database operations.
 
+### 🛒 Nike Product Data Extractor
+
+Python | Selenium | Web Scraping | Data Cleaning | CSV Automation | Regex
+Built a dynamic web scraper for Nike’s official website to extract product metadata including name, pricing, discount, reviews, sizes, colors, and image URLs.
+Implemented adaptive scraping logic using Selenium to handle dynamic elements, infinite scrolling, lazy loading, and JavaScript-rendered pages.
+Designed an anti-bot detection strategy with user-agent rotation, automation flags removal, controlled scrolling, and rate-limiting.
+Extracted structured data for 295+ products and enriched details for top items (description, style code, rating, review count).
+Applied data validation filters to ensure clean and consistent outputs, removing incomplete or incorrectly tagged products.
+Automated CSV export for both complete product dataset and Top-20 products ranked by rating & review count.
+
 ### 🗳️ Votezy  [Live](https://votezy-frontend.netlify.app/)
 Java | Spring Boot | REST APIs | MySQL | Maven | HTML| CSS
 - Online voting system with voter & candidate modules.
